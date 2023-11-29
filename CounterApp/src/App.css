@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.box{
+  border: 1px solid white;
+  padding: 20px;
+  border-radius: 25px;
+}
+
+h1 {
+  border-bottom: 1px solid white;
+}
+
+p{
+  font-size: 3rem;
+  background: white;
+  border-radius: 30px;
+  color: black;
+  height: 100%;
+}
+
+button {
+  margin: 5px;
+  
+}
+
+
+
